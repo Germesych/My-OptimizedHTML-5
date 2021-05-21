@@ -1,9 +1,7 @@
 /node_modules/
 /.git/
 /**/.git
-.git
 /.idea/
-.idea
 /**/.idea
 /**/Thumbs.db
 /**/*.DS_Store
